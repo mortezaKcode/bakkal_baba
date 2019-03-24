@@ -6,7 +6,7 @@ for make it ltr just remove rtl class or use bootstrap ltr-version.
 i used my-sql but you can change it to postgresql
 
 ### Turkish
-Bakkal_baba bir basit program ki elixir-phoenix'le yazilmish ve forn-end'de React & React-router kullanilmish , eger elixir ve phoenix'te bir site nasil yaziliyor ya react nasil kullaniliyoru bilmek istiyorsunuz code'larina bakin , hardcode yazildighi ichin anlamasi baya rahat :)
+Bakkal_baba bir basit program ki elixir-phoenix'le yazilmish ve front-end'de React & React-router kullanilmish , eger elixir ve phoenix'te bir site nasil yaziliyor ya react nasil kullaniliyoru bilmek istiyorsunuz code'larina bakin , hardcode yazildighi ichin anlamasi baya rahat :)
 bu programin ichindeki kode'lari ya kullanilan shive'leri asla kendi project'leriniz'de kullanmayin chun ki hardCode yazilmish ve sadece test ichin
 
 ### Persian
